@@ -22,18 +22,22 @@ Before you try running this project locally, first make sure you have the follow
 - [Heroku CLI](http://https://cli.heroku.com/)
 
 ## Running locally
-> npm start
-
+```
+$ npm start
+```
 ## Executing any unit tests (none implemented yet)
-> npm test
+```
+$ npm test
+```
 
 Please make sure that you run *npm install* first, however.
 
 # Deploying to Heroku
-> $ heroku create
-> $ git push heroku master
-> $ heroku open
-
+```
+$ heroku create
+$ git push heroku master
+$ heroku open
+```
 or
 
 [![Deploy Here](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
